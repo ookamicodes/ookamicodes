@@ -40,7 +40,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://twitter.com/ookamicodes"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-ookamicodes__-blue?style=flat-square&logo=twitter"></a>
-<a href="https://discord.gg/FGzCdtP"><img alt="Discord" src="https://img.shields.io/badge/Discord-ookamicodes server__-blue?style=flat-square&logo=discord"></a>
+<a href="https://twitter.com/ookamicodes"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-ookamicodes-black?style=flat-square&logo=twitter"></a>
+<a href="https://discord.gg/FGzCdtP"><img alt="Discord" src="https://img.shields.io/badge/Discord-ookamicodes server-black?style=flat-square&logo=discord"></a>
 
 </p>
