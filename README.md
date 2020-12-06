@@ -26,8 +26,8 @@
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
-
-
+<h3> 👥 &nbsp;Partner</h3>
+We need to thank our partner [BungeeCloud](https://bungeecloud.org/). BungeeCloud provides us with the necessary hardware (vServer & Webspaces). SecurityAPI is hosted by a BungeeCloud VPS and guarantees 99% uptime, stability and a great security. We can only recommend BungeeCloud has a hosting provider (advertisement).
 <br/>
 
 <a href="https://github.com/ookamicodes">
